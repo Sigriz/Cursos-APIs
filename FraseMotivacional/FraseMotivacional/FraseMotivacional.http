@@ -1,0 +1,6 @@
+@FraseMotivacional_HostAddress = http://localhost:5054
+
+GET {{FraseMotivacional_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

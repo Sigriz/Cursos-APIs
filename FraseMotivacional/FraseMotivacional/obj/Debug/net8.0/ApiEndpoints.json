@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "FraseMotivacional.Controllers.FrasesMotivacionaisController",
+    "Method": "Get",
+    "RelativePath": "FrasesMotivacionais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FraseMotivacional.FraseMotivacional",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetFraseMotivacional"
+  }
+]
